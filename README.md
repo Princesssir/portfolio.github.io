@@ -1,6 +1,6 @@
 # Princesssir.github.io
- 3D Physics Jenga Game
-An interactive, web-based 3D Jenga tower built with **Babylon.js** and powered by the **Havok Physics Engine**. Designed with a focus on real-time collision detection, physical stability, and 
+ 3D Physics Jenga Interactable 
+An interactive, web-based 3D Jenga tower built with **Babylon.js** and powered by the **Havok Physics Engine**. Designed with a focus on  physics aggregate and collision detection.
 
 
 ## 🛠️ How I Made It
